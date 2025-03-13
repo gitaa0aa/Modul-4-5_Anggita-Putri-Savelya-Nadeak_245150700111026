@@ -1,13 +1,6 @@
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
- */
 package praktic.geometry;
 import java.util.Scanner;
-/**
- *
- * @author Hp
- */
+
 public class CircleMain {
     static String BLUE = "\u001B[34m";
     static String GREEN = "\u001B[32m";
